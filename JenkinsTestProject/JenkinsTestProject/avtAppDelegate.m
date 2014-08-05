@@ -3,7 +3,7 @@
 //  JenkinsTestProject
 //
 //  Created by Ricardo Herrera on 8/4/14.
-//  Copyright (c) 2014 Avantica. All rights reserved.
+//  Copyright (c) 2014 Avantica. All rights reserved..
 //
 
 #import "avtAppDelegate.h"
