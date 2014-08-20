@@ -5,36 +5,36 @@
 	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
 	<false/>
 	<key>IDESourceControlProjectIdentifier</key>
-	<string>1F6B5A45-97E7-43FD-9DFB-983840EE088E</string>
+	<string>5CDBDCAB-2898-4B70-9982-471285D85955</string>
 	<key>IDESourceControlProjectName</key>
 	<string>JenkinsTestProject</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
-		<key>2FFE23DD-238F-4EF8-A358-52382C67EC9B</key>
-		<string>https://github.com/ricardoHHVAvantica/macarronesConMakis.git</string>
+		<key>8BF0EFC1-F0B9-4717-9D40-383336FA2921</key>
+		<string>https://github.com/ricardoHHVAvantica/macarronesConMakis.git/</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
 	<string>JenkinsTestProject/JenkinsTestProject.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
-		<key>2FFE23DD-238F-4EF8-A358-52382C67EC9B</key>
+		<key>8BF0EFC1-F0B9-4717-9D40-383336FA2921</key>
 		<string>../../..</string>
 	</dict>
 	<key>IDESourceControlProjectURL</key>
-	<string>https://github.com/ricardoHHVAvantica/macarronesConMakis.git</string>
+	<string>https://github.com/ricardoHHVAvantica/macarronesConMakis.git/</string>
 	<key>IDESourceControlProjectVersion</key>
 	<integer>110</integer>
 	<key>IDESourceControlProjectWCCIdentifier</key>
-	<string>2FFE23DD-238F-4EF8-A358-52382C67EC9B</string>
+	<string>8BF0EFC1-F0B9-4717-9D40-383336FA2921</string>
 	<key>IDESourceControlProjectWCConfigurations</key>
 	<array>
 		<dict>
 			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
 			<string>public.vcs.git</string>
 			<key>IDESourceControlWCCIdentifierKey</key>
-			<string>2FFE23DD-238F-4EF8-A358-52382C67EC9B</string>
+			<string>8BF0EFC1-F0B9-4717-9D40-383336FA2921</string>
 			<key>IDESourceControlWCCName</key>
-			<string>macarronesConMakis</string>
+			<string>macaronesConMakis</string>
 		</dict>
 	</array>
 </dict>
