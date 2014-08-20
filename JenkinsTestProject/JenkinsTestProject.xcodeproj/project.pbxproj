@@ -193,7 +193,7 @@
 				ORGANIZATIONNAME = Avantica;
 				TargetAttributes = {
 					8CD1A9B4199028C9009A986B = {
-						DevelopmentTeam = 6RKSVK37UR;
+						DevelopmentTeam = Z64GBT5WYN;
 					};
 					8CD1A9CF199028C9009A986B = {
 						TestTargetID = 8CD1A9B4199028C9009A986B;
@@ -302,8 +302,8 @@
 				CLANG_WARN_INT_CONVERSION = YES;
 				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
 				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Laura Ponce (8FCMFPHC9T)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Laura Ponce (8FCMFPHC9T)";
+				CODE_SIGN_IDENTITY = "iPhone Developer: Laura Ponce (Y5VFBZ8844)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Laura Ponce (Y5VFBZ8844)";
 				COPY_PHASE_STRIP = NO;
 				GCC_C_LANGUAGE_STANDARD = gnu99;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -321,7 +321,7 @@
 				GCC_WARN_UNUSED_VARIABLE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 7.1;
 				ONLY_ACTIVE_ARCH = YES;
-				PROVISIONING_PROFILE = "110D861E-61A5-42D5-8156-1213C5C895F8";
+				PROVISIONING_PROFILE = "DCAC9335-C341-4EAB-AA56-C935EB2E16A2";
 				SDKROOT = iphoneos;
 			};
 			name = Debug;
@@ -365,13 +365,13 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Developer: Laura Ponce (8FCMFPHC9T)";
-				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Laura Ponce (8FCMFPHC9T)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer: Laura Ponce (Y5VFBZ8844)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JenkinsTestProject/JenkinsTestProject-Prefix.pch";
 				INFOPLIST_FILE = "JenkinsTestProject/JenkinsTestProject-Info.plist";
 				PRODUCT_NAME = "$(TARGET_NAME)";
-				PROVISIONING_PROFILE = "110D861E-61A5-42D5-8156-1213C5C895F8";
+				PROVISIONING_PROFILE = "DCAC9335-C341-4EAB-AA56-C935EB2E16A2";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -381,7 +381,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
-				CODE_SIGN_IDENTITY = "iPhone Distribution: RICARDO HERRERA V. (Z64GBT5WYN)";
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution: RICARDO HERRERA V. (Z64GBT5WYN)";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "JenkinsTestProject/JenkinsTestProject-Prefix.pch";
